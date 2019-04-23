@@ -64,10 +64,36 @@ background-color: bisque;
     
 }
 
+#paragraph {
+    
+    align-content: center;
+    font-family: 'Yanone; Kaffeesatz', sans-serif;
+    font-style: oblique;
+}
+
 /* END MAP PAGE CSS */
 
 
 /* HISTORY PAGE CSS */
+
+
+h1 {
+  color: white;
+font-family: 'Yanone Kaffeesatz', sans-serif; 
+  font-size: 50px;
+    text-align: center;
+    
+}
+
+#paragraphOne {
+    
+    align-items: center;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+    font-size: 35px;
+    color: black;
+}
+
 
 
 /* END HISTORY PAGE CSS */
